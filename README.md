@@ -8,7 +8,7 @@ Retrofit
 GsonConverterFactory  
 
 DONE:
-- (1,2) Using Retrofit library list all “tetris” Repos by the REST API call:
+- (1,2) Using Retrofit library list all “tetris” Repos by the REST API call:  
         https://api.github.com/search/repositories?q=tetris 
 - (3,4) RecyclerView grid layout showing Repo name, Owner’s login name and Repo size
 - (5) Different background colour for items that have "has_wiki" set to 'true'
