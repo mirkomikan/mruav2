@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MRU-Av2</string>
+    <string name="title_activity_main">GitHub RecyclerView</string>
+    <string name="title_trending">Trending</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+</resources>
