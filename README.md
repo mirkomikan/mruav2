@@ -3,9 +3,9 @@ MRU-A-v2-GitHubRecyclerView
 
 MRU-Av2 GITHUB VIEW (Specs parts 1 - 7)   
 ---------------------------------------
-RecyclerView
-Retrofit
-GsonConverterFactory
+RecyclerView  
+Retrofit  
+GsonConverterFactory  
 
 DONE:
 - (1,2) Using Retrofit library list all “tetris” Repos by the REST API call:
